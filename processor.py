@@ -1,6 +1,6 @@
 import pandas as pd
 
-from classifier import classify_complaint
+from classifier_vllm import classify_complaint
 from routing import assign_team
 
 
